@@ -1,12 +1,16 @@
 ECEN 314-200: Signals and Systems, Fall 2021
+
 Final Project: Image Editing through Fourier-Transform Filtering
+
 Tyler Nichols
 
 Abstract
+
 My project focuses on the relationship between an image's typical time-domain form and its frequency-domain Fourier transform. By converting an input image to its Fourier
 transform, altering that transform, then converting it back to the time domain, I examine the relationship between the forms and structures of both representations.
 
 Included Files & Descriptions
+
 ecen314-200-FinalProject-NicholsTyler.py
 Python file that contains the final code to be run, which facilitates user inputs.
 ecen314-200-FP-Report-NicholsTyler.docx: Word document containing information on this project and its final results.
