@@ -12,7 +12,7 @@ ecen314-200-FP-filters.py: Defines the functions used to edit the Fourier transf
 ecen314-200-FP-masks.py: Defines the functions used to edit the selected image based on the user’s inputs and display the results of the edit.   
 
 Other Files & Descriptions      
-ecen314-200-FP-Report-NicholsTyler.docx: Word document containing information on this project and its final results.   
+ecen314-200-FP-Report-NicholsTyler.pdf: Word document containing information on this project and its final results.   
 img1.png: Image file, square and dark with some prominent vertical and horizontal lines.   
 img2.png: Image file, square and colorful with many small vertical and horizontal lines.   
 img2-tall.png:  Image file, the same as img2.png, but edited to be rectangular in shape.   
