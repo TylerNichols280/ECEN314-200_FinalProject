@@ -13,9 +13,9 @@ ecen314-200-FP-masks.py: Defines the functions used to edit the selected image b
 
 Other Files & Descriptions      
 ecen314-200-FP-Report-NicholsTyler.docx: Word document containing information on this project and its final results.   
-img1.png: Image file, square and dark with some prominent vertical and horizontal lines.   
-img2.png: Image file, square and colorful with many small vertical and horizontal lines.   
-img2-tall.png: Image file, the same as img2.png, but edited to be rectangular in shape.   
+img1.png:  Image file, square and dark with some prominent vertical and horizontal lines.   
+img2.png:  Image file, square and colorful with many small vertical and horizontal lines.   
+img2-tall.png:  Image file, the same as img2.png, but edited to be rectangular in shape.   
 img3.jpg: Image file, rectangular and colorful with few harsh lines.   
 lines-dlr.png: Image file, square with only white and black diagonal lines from the top left to the bottom right.   
 lines-drl.png: Image file, square with only white and black diagonal lines from the top right to the bottom left.   
