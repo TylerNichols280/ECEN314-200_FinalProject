@@ -1,5 +1,5 @@
 ECEN 314-200: Signals and Systems, Fall 2021   
-Final Project: Image Editing through Fourier-Transform Filtering   
+Final Project: Image Editing through Fourier Transform Filtering   
 Tyler Nichols   
 
 Abstract   
